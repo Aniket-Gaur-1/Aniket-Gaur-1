@@ -1,6 +1,6 @@
 # Hi, I'm Aniket Gaur 👋
 
-**Software Development Engineer | Full-Stack | Real-Time Systems | AI Integration** 📍 Greater Noida, UP | [LinkedIn](https://www.linkedin.com/in/aniket-gaur1/) | aniketgaur1149@gmail.com
+**Software Development Engineer | Full-Stack | Real-Time Systems | AI Integration** | [LinkedIn](https://www.linkedin.com/in/aniket-gaur1/) | aniketgaur1149@gmail.com
 
 ---
 
